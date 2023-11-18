@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Manav.
+### Hi there 👋 My name is Manav Doshi
 
 <!--
 **Manav535/Manav535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
